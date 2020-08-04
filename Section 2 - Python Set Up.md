@@ -7,13 +7,13 @@
 
 **cd** - change directory
 
-**.** - current directory
+**.**  - current directory
 
-**..**- parent directory
+**..** - parent directory
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTU5ODQ2MiwxMjg2NDY4NTQ2LDE3Mz
+eyJoaXN0b3J5IjpbMTAxMTY2MjU0NCwxMjg2NDY4NTQ2LDE3Mz
 Y5MTMzMTBdfQ==
 -->
