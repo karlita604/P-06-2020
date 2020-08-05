@@ -59,9 +59,9 @@ In order to check the type `type(x)`
 
 
 # Strings
-
+Because strings are ordered sequence, we can use **indexing** and **slicing**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNDU2Mjg2LDE0ODcyMzM0NSwxMzgzNj
-Q2NzkyLC0zNjYyODkwNTUsLTUzNjI0NTM0MywtODQ3ODc5NDAw
-LDE5OTQwNTQsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbODU2NjE1NjAxLDI5MDQ1NjI4NiwxNDg3Mj
+MzNDUsMTM4MzY0Njc5MiwtMzY2Mjg5MDU1LC01MzYyNDUzNDMs
+LTg0Nzg3OTQwMCwxOTk0MDU0LDIwNDAyOTc2MjJdfQ==
 -->
