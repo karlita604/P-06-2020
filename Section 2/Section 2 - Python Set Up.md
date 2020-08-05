@@ -36,8 +36,9 @@ Any development environment is good,  as long as it works well for you. Dealer's
 * Python 3 but can also be changed
 * .ipynb 
 * Cell based system - see the output of the statement right beneath it once you run it.
+* You can change the type of cell (ie. markdown, code, etc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzAzNzI5LDIwNTYzMTg4MCwtMTE3Nz
-U3ODI4NywtNTE3ODQ3OTA2LDIxMTc2NDI5NTksMTAxMTY2MjU0
-NCwxMjg2NDY4NTQ2LDE3MzY5MTMzMTBdfQ==
+eyJoaXN0b3J5IjpbMzU0Mjk4OTksMjA1NjMxODgwLC0xMTc3NT
+c4Mjg3LC01MTc4NDc5MDYsMjExNzY0Mjk1OSwxMDExNjYyNTQ0
+LDEyODY0Njg1NDYsMTczNjkxMzMxMF19
 -->
