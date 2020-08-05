@@ -14,9 +14,9 @@
 |Sets| set| unordered collection of unique objects| ("a","b")
 |Boolean| bool| Logic values| True, False|
 
-
+Data structures: everything including and below "Lists" in the table
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Nzg3OTQwMCwxOTk0MDU0LDIwNDAyOT
-c2MjJdfQ==
+eyJoaXN0b3J5IjpbMTg3MDMzMzE4OSwtODQ3ODc5NDAwLDE5OT
+QwNTQsMjA0MDI5NzYyMl19
 -->
