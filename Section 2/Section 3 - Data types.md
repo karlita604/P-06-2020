@@ -40,9 +40,9 @@ This has to do with floating point accuracy and computer's abilities to represen
 * Best practice: lowercase only
 * No key words
 
-**Dynamic Typin
+**Dynamic Typing**: you can reassign variables to different datatypes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ3OTQwMTcsMTM4MzY0Njc5MiwtMz
-Y2Mjg5MDU1LC01MzYyNDUzNDMsLTg0Nzg3OTQwMCwxOTk0MDU0
-LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTk5ODMyMDA4MywxMzgzNjQ2NzkyLC0zNj
+YyODkwNTUsLTUzNjI0NTM0MywtODQ3ODc5NDAwLDE5OTQwNTQs
+MjA0MDI5NzYyMl19
 -->
