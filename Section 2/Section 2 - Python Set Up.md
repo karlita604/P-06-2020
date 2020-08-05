@@ -42,9 +42,11 @@ Any development environment is good,  as long as it works well for you. Dealer's
 # Git Basics
 * free and open source distributed version control system that can handle most if not all types and scales of projects that you throw at it
 * git-scm.com
+* GitHub: webpage where you can publish projects and collaborate --> commits and branches
+* Git will run locally if you do not use GitHub
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NDAzODUsLTQ5MzU0MTkyNiwyMDU2Mz
-E4ODAsLTExNzc1NzgyODcsLTUxNzg0NzkwNiwyMTE3NjQyOTU5
-LDEwMTE2NjI1NDQsMTI4NjQ2ODU0NiwxNzM2OTEzMzEwXX0=
+eyJoaXN0b3J5IjpbMjAzMTYyODY5LC00OTM1NDE5MjYsMjA1Nj
+MxODgwLC0xMTc3NTc4Mjg3LC01MTc4NDc5MDYsMjExNzY0Mjk1
+OSwxMDExNjYyNTQ0LDEyODY0Njg1NDYsMTczNjkxMzMxMF19
 -->
