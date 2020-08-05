@@ -22,11 +22,14 @@ Two main number types: Integers and Floating Points
 
 Addition +
 Subtraction -
-Mult *
+Mult*
 Div /
 Mod %
-Expo
+Exponent **
+Parantheses
+
+# Variable Assignments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIzMDMxNzEsLTUzNjI0NTM0MywtOD
-Q3ODc5NDAwLDE5OTQwNTQsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTM2NjI4OTA1NSwtNTM2MjQ1MzQzLC04ND
+c4Nzk0MDAsMTk5NDA1NCwyMDQwMjk3NjIyXX0=
 -->
