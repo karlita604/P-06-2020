@@ -72,9 +72,9 @@ Because strings are ordered sequence, we can use **indexing** and **slicing**
 mystring = "Hello World"
 mystring[0]
 --> 'H'
+mystring[-2]
+-->'l'
 ```
-
-
 
 **Slicing:**
 * allows you to grab a whole section of a string
@@ -83,6 +83,10 @@ mystring[0]
 	* stop is the index you will go up to (NOT included)
 	* step is the size of the "jump"
 
+```python
+astring = "abcdefghijk"
+astring
+```
 
 **Escape sequences:** 
 \n : new line
@@ -92,8 +96,9 @@ len("x") : returns length of string x
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODc5Njc1OSwyMjA4NDAxOTQsLTE3Mj
-I2OTU5OTMsODU2NjE1NjAxLDI5MDQ1NjI4NiwxNDg3MjMzNDUs
-MTM4MzY0Njc5MiwtMzY2Mjg5MDU1LC01MzYyNDUzNDMsLTg0Nz
-g3OTQwMCwxOTk0MDU0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbNzkzNDE4MzkwLDE3Njg3OTY3NTksMjIwOD
+QwMTk0LC0xNzIyNjk1OTkzLDg1NjYxNTYwMSwyOTA0NTYyODYs
+MTQ4NzIzMzQ1LDEzODM2NDY3OTIsLTM2NjI4OTA1NSwtNTM2Mj
+Q1MzQzLC04NDc4Nzk0MDAsMTk5NDA1NCwyMDQwMjk3NjIyXX0=
+
 -->
