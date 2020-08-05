@@ -10,9 +10,11 @@
 |Strings| str| ordered sequence of characters between quotations|"hello" "goodbye123"|
 |Lists|list|ordered sequence of objects| [10,"h3llo", 30.4]|
 |Dictionaries| dict| unordered key:value pairs| ("key":"value", "name":"Karla")
-|Tuples| tup| unordered immutable sequence of objects| (10,"Lady",
+|Tuples| tup| unordered immutable sequence of objects| (10,"Lady")|
+|Sets| set| unordered collection of unique objects| ("a","b")
+|Boolean| bool| Logic values| True, False|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzMxNjM5MSwxOTk0MDU0LDIwNDAyOT
+eyJoaXN0b3J5IjpbMTg4ODcyMDk1NiwxOTk0MDU0LDIwNDAyOT
 c2MjJdfQ==
 -->
