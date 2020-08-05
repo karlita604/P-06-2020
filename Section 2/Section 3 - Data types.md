@@ -66,6 +66,8 @@ Because strings are ordered sequence, we can use **indexing** and **slicing**
 * []
 * index starts at 0
 * reverse indexing ! -1 = last letter always
+* white spaces count as characters in the string
+* 
 
 **Slicing:**
 * allows you to grab a whole section of a string
@@ -74,8 +76,8 @@ Because strings are ordered sequence, we can use **indexing** and **slicing**
 	* stop is the index you will go up to (NOT included)
 	* step is the size of the "jump"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MzQxODk3LC0xNzIyNjk1OTkzLDg1Nj
-YxNTYwMSwyOTA0NTYyODYsMTQ4NzIzMzQ1LDEzODM2NDY3OTIs
-LTM2NjI4OTA1NSwtNTM2MjQ1MzQzLC04NDc4Nzk0MDAsMTk5ND
-A1NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTEyNzYzMjI1MDksLTE3MjI2OTU5OTMsOD
+U2NjE1NjAxLDI5MDQ1NjI4NiwxNDg3MjMzNDUsMTM4MzY0Njc5
+MiwtMzY2Mjg5MDU1LC01MzYyNDUzNDMsLTg0Nzg3OTQwMCwxOT
+k0MDU0LDIwNDAyOTc2MjJdfQ==
 -->
