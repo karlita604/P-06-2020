@@ -34,9 +34,15 @@ This has to do with floating point accuracy and computer's abilities to represen
 
 # Variable Assignments
 
+* Names cannot start with a number
+* No spaces in the name
+* Can only use alphanumeric symbols
+* Best practice: lowercase only
+* No key words
 
+**Dynamic Typin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE2NDMzNTYsMTM4MzY0Njc5MiwtMz
+eyJoaXN0b3J5IjpbLTE0NTQ3OTQwMTcsMTM4MzY0Njc5MiwtMz
 Y2Mjg5MDU1LC01MzYyNDUzNDMsLTg0Nzg3OTQwMCwxOTk0MDU0
 LDIwNDAyOTc2MjJdfQ==
 -->
