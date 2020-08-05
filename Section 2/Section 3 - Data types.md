@@ -78,9 +78,12 @@ Because strings are ordered sequence, we can use **indexing** and **slicing**
 
 **Escape sequences:** 
 \n : new line
+\t : tab
+len("x") : returns length of string x
+#comment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ2MzUxMjIsLTE3MjI2OTU5OTMsOD
-U2NjE1NjAxLDI5MDQ1NjI4NiwxNDg3MjMzNDUsMTM4MzY0Njc5
-MiwtMzY2Mjg5MDU1LC01MzYyNDUzNDMsLTg0Nzg3OTQwMCwxOT
-k0MDU0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTY1NzE0MDU1NiwtMTcyMjY5NTk5Myw4NT
+Y2MTU2MDEsMjkwNDU2Mjg2LDE0ODcyMzM0NSwxMzgzNjQ2Nzky
+LC0zNjYyODkwNTUsLTUzNjI0NTM0MywtODQ3ODc5NDAwLDE5OT
+QwNTQsMjA0MDI5NzYyMl19
 -->
