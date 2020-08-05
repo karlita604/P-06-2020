@@ -25,7 +25,8 @@ Subtraction -
 Mult *
 Div /
 Mod %
+Expo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjI0NTM0MywtODQ3ODc5NDAwLDE5OT
-QwNTQsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTExODIzMDMxNzEsLTUzNjI0NTM0MywtOD
+Q3ODc5NDAwLDE5OTQwNTQsMjA0MDI5NzYyMl19
 -->
