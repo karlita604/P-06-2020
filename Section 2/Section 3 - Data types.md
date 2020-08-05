@@ -55,9 +55,13 @@ This allows you to not have. towrite out any data types
 
 In order to check the type `type(x)`
 
-** if you ever have an error you can restart the kernel and that will erase every variable assignment so you can start again
+** if you ever have an error you can restart the kernel and that will erase every variable assignment so you can start again**
+
+
+# Strings
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDE2MTE0MSwxNDg3MjMzNDUsMTM4Mz
-Y0Njc5MiwtMzY2Mjg5MDU1LC01MzYyNDUzNDMsLTg0Nzg3OTQw
-MCwxOTk0MDU0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMjkwNDU2Mjg2LDE0ODcyMzM0NSwxMzgzNj
+Q2NzkyLC0zNjYyODkwNTUsLTUzNjI0NTM0MywtODQ3ODc5NDAw
+LDE5OTQwNTQsMjA0MDI5NzYyMl19
 -->
