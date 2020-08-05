@@ -60,18 +60,22 @@ In order to check the type `type(x)`
 
 # Strings
 Because strings are ordered sequence, we can use **indexing** and **slicing**
-Indexing: 
+
+**Indexing:** 
 * allows you tp grab a single bit of the string
 * []
 * index starts at 0
 * reverse indexing ! -1 = last letter always
-Slicing:
+
+**Slicing:**
 * allows you to grab a whole section of a string
 * [start:stop:step]
-* 
+	* start is the numerical index for the slice part
+	* stop is the index you will go up to (NOT included)
+	* step is the size of the "jump"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTk2NjE0NSwtMTcyMjY5NTk5Myw4NT
-Y2MTU2MDEsMjkwNDU2Mjg2LDE0ODcyMzM0NSwxMzgzNjQ2Nzky
-LC0zNjYyODkwNTUsLTUzNjI0NTM0MywtODQ3ODc5NDAwLDE5OT
-QwNTQsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbNDY1MzQxODk3LC0xNzIyNjk1OTkzLDg1Nj
+YxNTYwMSwyOTA0NTYyODYsMTQ4NzIzMzQ1LDEzODM2NDY3OTIs
+LTM2NjI4OTA1NSwtNTM2MjQ1MzQzLC04NDc4Nzk0MDAsMTk5ND
+A1NCwyMDQwMjk3NjIyXX0=
 -->
