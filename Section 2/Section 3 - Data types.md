@@ -70,8 +70,10 @@ Because strings are ordered sequence, we can use **indexing** and **slicing**
 
 ```python
 mystring = "Hello World"
-
+mystring[0]
+--> 'H'
 ```
+
 
 
 **Slicing:**
@@ -90,8 +92,8 @@ len("x") : returns length of string x
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwODQwMTk0LC0xNzIyNjk1OTkzLDg1Nj
-YxNTYwMSwyOTA0NTYyODYsMTQ4NzIzMzQ1LDEzODM2NDY3OTIs
-LTM2NjI4OTA1NSwtNTM2MjQ1MzQzLC04NDc4Nzk0MDAsMTk5ND
-A1NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTc2ODc5Njc1OSwyMjA4NDAxOTQsLTE3Mj
+I2OTU5OTMsODU2NjE1NjAxLDI5MDQ1NjI4NiwxNDg3MjMzNDUs
+MTM4MzY0Njc5MiwtMzY2Mjg5MDU1LC01MzYyNDUzNDMsLTg0Nz
+g3OTQwMCwxOTk0MDU0LDIwNDAyOTc2MjJdfQ==
 -->
