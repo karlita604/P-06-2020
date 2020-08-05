@@ -43,9 +43,17 @@ This has to do with floating point accuracy and computer's abilities to represen
 **Dynamic Typing**: you can reassign variables to different datatypes
 (vs. **Statically-Typed**)
 
-``py
+  
+```python
+my_dog=1;
+my_dog="LC";
+```
+
+This allows you to not have. towrite out any data types 
+--> faster dev time.
+-->may result in bugs when we have unexpected datatypes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDA3MjI1MSwxMzgzNjQ2NzkyLC0zNj
-YyODkwNTUsLTUzNjI0NTM0MywtODQ3ODc5NDAwLDE5OTQwNTQs
-MjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMTQ4NzIzMzQ1LDEzODM2NDY3OTIsLTM2Nj
+I4OTA1NSwtNTM2MjQ1MzQzLC04NDc4Nzk0MDAsMTk5NDA1NCwy
+MDQwMjk3NjIyXX0=
 -->
