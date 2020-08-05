@@ -20,12 +20,12 @@ Data structures: everything including and below "Lists" in the table
 # Numbers
 Two main number types: Integers and Floating Points
 
-Addition
-Subtraction 
-Mult
-Div
-Mod
+Addition +
+Subtraction -
+Mult *
+Div /
+Mod %
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkzODgyNDUsLTg0Nzg3OTQwMCwxOT
-k0MDU0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTUzNjI0NTM0MywtODQ3ODc5NDAwLDE5OT
+QwNTQsMjA0MDI5NzYyMl19
 -->
