@@ -53,9 +53,9 @@ This allows you to not have. towrite out any data types
 --> faster dev time.
 -->may result in bugs when we have unexpected datatypes.
 
-In order to 
+In order to check the type `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Mzg2NjQ1MywxNDg3MjMzNDUsMTM4Mz
-Y0Njc5MiwtMzY2Mjg5MDU1LC01MzYyNDUzNDMsLTg0Nzg3OTQw
-MCwxOTk0MDU0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTEyNDk4OTQzMTYsMTQ4NzIzMzQ1LDEzOD
+M2NDY3OTIsLTM2NjI4OTA1NSwtNTM2MjQ1MzQzLC04NDc4Nzk0
+MDAsMTk5NDA1NCwyMDQwMjk3NjIyXX0=
 -->
