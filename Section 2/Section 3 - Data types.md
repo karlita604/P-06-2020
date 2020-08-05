@@ -3,9 +3,10 @@
 
 # Basic Data Types
 
-| Column 1 | Column 2 |
-|:--------:| -------------:|
-| centered | right-aligned |
+| NAME | TYPE |DESCRIPTION|
+|:--:|:------:|:--:|
+| In | right-aligned |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTg0NDY1MjcsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTM0OTkwNzMsMjA0MDI5NzYyMl19
 -->
