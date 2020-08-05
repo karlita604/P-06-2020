@@ -54,8 +54,10 @@ This allows you to not have. towrite out any data types
 -->may result in bugs when we have unexpected datatypes.
 
 In order to check the type `type(x)`
+
+** if you ever have an error you can restart the kernel and that will erase every variable assignment so you can start again
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDA1MTQ3NSwxNDg3MjMzNDUsMTM4Mz
+eyJoaXN0b3J5IjpbMTkxNDE2MTE0MSwxNDg3MjMzNDUsMTM4Mz
 Y0Njc5MiwtMzY2Mjg5MDU1LC01MzYyNDUzNDMsLTg0Nzg3OTQw
 MCwxOTk0MDU0LDIwNDAyOTc2MjJdfQ==
 -->
