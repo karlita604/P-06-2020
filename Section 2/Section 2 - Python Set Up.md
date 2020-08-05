@@ -39,10 +39,12 @@ Any development environment is good,  as long as it works well for you. Dealer's
 * You can change the type of cell (ie. markdown, code, etc)
 
 
-
+# Git Basics
+* free and open source distributed version control system that can handle most if not all types and scales of projects that you throw at it
+* git-scm.com
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Nzk3MjQ1MiwtNDkzNTQxOTI2LDIwNT
-YzMTg4MCwtMTE3NzU3ODI4NywtNTE3ODQ3OTA2LDIxMTc2NDI5
-NTksMTAxMTY2MjU0NCwxMjg2NDY4NTQ2LDE3MzY5MTMzMTBdfQ
-==
+eyJoaXN0b3J5IjpbNTc2NDAzODUsLTQ5MzU0MTkyNiwyMDU2Mz
+E4ODAsLTExNzc1NzgyODcsLTUxNzg0NzkwNiwyMTE3NjQyOTU5
+LDEwMTE2NjI1NDQsMTI4NjQ2ODU0NiwxNzM2OTEzMzEwXX0=
 -->
