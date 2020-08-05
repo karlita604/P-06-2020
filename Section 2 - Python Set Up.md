@@ -21,11 +21,11 @@
 * Sublime Text and Atom (just examples) that without plugins would sacrifice some pythom functionality. 
 * **FULL IDE <3** --> Pycharm and Spyder
 * IDE's come with everything already and have whole companies behind them and provide more features and support if you pay for the pro versions
-* **Notebook Enviroments** are really great for learning as you can run snippets of code and see the outputs right next to each other
+* **Notebook Enviroments** are really great for learning as you can run snippets of code (cells) and see the outputs right next to each other. This is different than 
 * These environments also support in-line markdown notes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNTAwNzExLC01MTc4NDc5MDYsMjExNz
-Y0Mjk1OSwxMDExNjYyNTQ0LDEyODY0Njg1NDYsMTczNjkxMzMx
-MF19
+eyJoaXN0b3J5IjpbLTExNzc1NzgyODcsLTUxNzg0NzkwNiwyMT
+E3NjQyOTU5LDEwMTE2NjI1NDQsMTI4NjQ2ODU0NiwxNzM2OTEz
+MzEwXX0=
 -->
