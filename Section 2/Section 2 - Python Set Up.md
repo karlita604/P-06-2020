@@ -34,11 +34,11 @@ Any development environment is good,  as long as it works well for you. Dealer's
 ### Jupyter 
 * will open in localhost8888
 * Python 3 but can also be changed
-* .ipynb 
+* .ipynb --> needs to be opened throught he JN system. 
 * Cell based system - see the output of the statement right beneath it once you run it.
 * You can change the type of cell (ie. markdown, code, etc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0Mjk4OTksMjA1NjMxODgwLC0xMTc3NT
-c4Mjg3LC01MTc4NDc5MDYsMjExNzY0Mjk1OSwxMDExNjYyNTQ0
-LDEyODY0Njg1NDYsMTczNjkxMzMxMF19
+eyJoaXN0b3J5IjpbLTQ5MzU0MTkyNiwyMDU2MzE4ODAsLTExNz
+c1NzgyODcsLTUxNzg0NzkwNiwyMTE3NjQyOTU5LDEwMTE2NjI1
+NDQsMTI4NjQ2ODU0NiwxNzM2OTEzMzEwXX0=
 -->
