@@ -28,10 +28,16 @@
 
 Any development environment is good,  as long as it works well for you. Dealer's choice!
 
+### Sublime Text - 
+* need to save your file as a specific file type so it can detect
 
+### Jupyter 
+* will open in localhost8888
+* Python 3 
+* ipyn
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDgyMjg4NCwyMDU2MzE4ODAsLTExNz
-c1NzgyODcsLTUxNzg0NzkwNiwyMTE3NjQyOTU5LDEwMTE2NjI1
-NDQsMTI4NjQ2ODU0NiwxNzM2OTEzMzEwXX0=
+eyJoaXN0b3J5IjpbNzk3MzIwMTIzLDIwNTYzMTg4MCwtMTE3Nz
+U3ODI4NywtNTE3ODQ3OTA2LDIxMTc2NDI5NTksMTAxMTY2MjU0
+NCwxMjg2NDY4NTQ2LDE3MzY5MTMzMTBdfQ==
 -->
