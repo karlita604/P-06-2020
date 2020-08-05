@@ -28,8 +28,13 @@ Mod %
 Exponent **
 Parantheses
 
+**Why doesn't 0.1+0.2-0.3 equal 0.0 ?**
+
+This has to do with floating point accuracy and computer's abilities to represent numbers in memory. For a full breakdown, check out: https://docs.python.org/2/tutorial/floatingpoint.html
+
 # Variable Assignments
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjI4OTA1NSwtNTM2MjQ1MzQzLC04ND
-c4Nzk0MDAsMTk5NDA1NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTM4MzY0Njc5MiwtMzY2Mjg5MDU1LC01Mz
+YyNDUzNDMsLTg0Nzg3OTQwMCwxOTk0MDU0LDIwNDAyOTc2MjJd
+fQ==
 -->
