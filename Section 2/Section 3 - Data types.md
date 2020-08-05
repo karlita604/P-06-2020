@@ -41,8 +41,11 @@ This has to do with floating point accuracy and computer's abilities to represen
 * No key words
 
 **Dynamic Typing**: you can reassign variables to different datatypes
+(vs. **Statically-Typed**)
+
+``py
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODMyMDA4MywxMzgzNjQ2NzkyLC0zNj
+eyJoaXN0b3J5IjpbLTM0NDA3MjI1MSwxMzgzNjQ2NzkyLC0zNj
 YyODkwNTUsLTUzNjI0NTM0MywtODQ3ODc5NDAwLDE5OTQwNTQs
 MjA0MDI5NzYyMl19
 -->
