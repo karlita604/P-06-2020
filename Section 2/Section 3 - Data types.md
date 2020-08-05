@@ -63,10 +63,14 @@ Because strings are ordered sequence, we can use **indexing** and **slicing**
 Indexing: 
 * allows you tp grab a single bit of the string
 * []
+* index starts at 0
+* reverse indexing ! -1 = last letter always
 Slicing:
-8
+* allows you to grab a whole section of a string
+* [start:stop:step]
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDg5ODAyMiwtMTcyMjY5NTk5Myw4NT
+eyJoaXN0b3J5IjpbLTU1MTk2NjE0NSwtMTcyMjY5NTk5Myw4NT
 Y2MTU2MDEsMjkwNDU2Mjg2LDE0ODcyMzM0NSwxMzgzNjQ2Nzky
 LC0zNjYyODkwNTUsLTUzNjI0NTM0MywtODQ3ODc5NDAwLDE5OT
 QwNTQsMjA0MDI5NzYyMl19
