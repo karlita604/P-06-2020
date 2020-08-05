@@ -18,8 +18,14 @@ Data structures: everything including and below "Lists" in the table
 
 
 # Numbers
-Two main number types: Integers and 
+Two main number types: Integers and Floating Points
+
+Addition
+Subtraction 
+Mult
+Div
+Mod
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE4OTU1NTcsLTg0Nzg3OTQwMCwxOT
+eyJoaXN0b3J5IjpbLTE4NzkzODgyNDUsLTg0Nzg3OTQwMCwxOT
 k0MDU0LDIwNDAyOTc2MjJdfQ==
 -->
