@@ -33,11 +33,11 @@ Any development environment is good,  as long as it works well for you. Dealer's
 
 ### Jupyter 
 * will open in localhost8888
-* Python 3 
-* ipyn
-
+* Python 3 but can also be changed
+* .ipynb 
+* Cell based system - see the output of the statement right beneath it once you run it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3MzIwMTIzLDIwNTYzMTg4MCwtMTE3Nz
+eyJoaXN0b3J5IjpbLTg0MzAzNzI5LDIwNTYzMTg4MCwtMTE3Nz
 U3ODI4NywtNTE3ODQ3OTA2LDIxMTc2NDI5NTksMTAxMTY2MjU0
 NCwxMjg2NDY4NTQ2LDE3MzY5MTMzMTBdfQ==
 -->
