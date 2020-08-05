@@ -52,8 +52,10 @@ my_dog="LC";
 This allows you to not have. towrite out any data types 
 --> faster dev time.
 -->may result in bugs when we have unexpected datatypes.
+
+In order to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzIzMzQ1LDEzODM2NDY3OTIsLTM2Nj
-I4OTA1NSwtNTM2MjQ1MzQzLC04NDc4Nzk0MDAsMTk5NDA1NCwy
-MDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTk2Mzg2NjQ1MywxNDg3MjMzNDUsMTM4Mz
+Y0Njc5MiwtMzY2Mjg5MDU1LC01MzYyNDUzNDMsLTg0Nzg3OTQw
+MCwxOTk0MDU0LDIwNDAyOTc2MjJdfQ==
 -->
