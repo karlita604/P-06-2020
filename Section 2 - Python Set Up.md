@@ -16,9 +16,9 @@
 
 # Python Basics
 * Python uses whitespace instead of brackets and so it is much easier to understand and learn.
-* Built in libraries a
+* Built in libraries are extremely helpful but there are also user built libraries which are open sourced that can help you complete basically any project you can think of.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MTIyNDI4LDEwMTE2NjI1NDQsMTI4Nj
-Q2ODU0NiwxNzM2OTEzMzEwXX0=
+eyJoaXN0b3J5IjpbMjExNzY0Mjk1OSwxMDExNjYyNTQ0LDEyOD
+Y0Njg1NDYsMTczNjkxMzMxMF19
 -->
