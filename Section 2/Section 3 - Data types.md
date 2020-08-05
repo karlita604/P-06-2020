@@ -60,8 +60,12 @@ In order to check the type `type(x)`
 
 # Strings
 Because strings are ordered sequence, we can use **indexing** and **slicing**
+Indexing: 
+* allows you tp grab a single bit of the string
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NjE1NjAxLDI5MDQ1NjI4NiwxNDg3Mj
-MzNDUsMTM4MzY0Njc5MiwtMzY2Mjg5MDU1LC01MzYyNDUzNDMs
-LTg0Nzg3OTQwMCwxOTk0MDU0LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE3MjI2OTU5OTMsODU2NjE1NjAxLDI5MD
+Q1NjI4NiwxNDg3MjMzNDUsMTM4MzY0Njc5MiwtMzY2Mjg5MDU1
+LC01MzYyNDUzNDMsLTg0Nzg3OTQwMCwxOTk0MDU0LDIwNDAyOT
+c2MjJdfQ==
 -->
