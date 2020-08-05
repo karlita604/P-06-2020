@@ -37,8 +37,12 @@ Any development environment is good,  as long as it works well for you. Dealer's
 * .ipynb --> needs to be opened throught he JN system. 
 * Cell based system - see the output of the statement right beneath it once you run it.
 * You can change the type of cell (ie. markdown, code, etc)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzU0MTkyNiwyMDU2MzE4ODAsLTExNz
-c1NzgyODcsLTUxNzg0NzkwNiwyMTE3NjQyOTU5LDEwMTE2NjI1
-NDQsMTI4NjQ2ODU0NiwxNzM2OTEzMzEwXX0=
+eyJoaXN0b3J5IjpbMTY4Nzk3MjQ1MiwtNDkzNTQxOTI2LDIwNT
+YzMTg4MCwtMTE3NzU3ODI4NywtNTE3ODQ3OTA2LDIxMTc2NDI5
+NTksMTAxMTY2MjU0NCwxMjg2NDY4NTQ2LDE3MzY5MTMzMTBdfQ
+==
 -->
