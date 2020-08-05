@@ -26,10 +26,10 @@
 * **Notebook Enviroments** are really great for learning as you can run snippets of code (cells) and see the outputs right next to each other. This is different than 
 * These environments also support in-line markdown notes. --> they have their own special file format (.ipynb) which needs to be launched w Jupyter Notebook.
 
-Any development enviroment is good, s l
+Any development environment is good,  as long as it works well for you. Dealer's choice!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTYxNDc3NywtMTE3NzU3ODI4NywtNT
-E3ODQ3OTA2LDIxMTc2NDI5NTksMTAxMTY2MjU0NCwxMjg2NDY4
-NTQ2LDE3MzY5MTMzMTBdfQ==
+eyJoaXN0b3J5IjpbMjA1NjMxODgwLC0xMTc3NTc4Mjg3LC01MT
+c4NDc5MDYsMjExNzY0Mjk1OSwxMDExNjYyNTQ0LDEyODY0Njg1
+NDYsMTczNjkxMzMxMF19
 -->
