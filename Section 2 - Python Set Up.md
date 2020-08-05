@@ -22,10 +22,10 @@
 * **FULL IDE <3** --> Pycharm and Spyder
 * IDE's come with everything already and have whole companies behind them and provide more features and support if you pay for the pro versions
 * **Notebook Enviroments** are really great for learning as you can run snippets of code and see the outputs right next to each other
-* These environments also support 
+* These environments also support in-line markdown notes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjMzODg3NSwtNTE3ODQ3OTA2LDIxMT
-c2NDI5NTksMTAxMTY2MjU0NCwxMjg2NDY4NTQ2LDE3MzY5MTMz
-MTBdfQ==
+eyJoaXN0b3J5IjpbNjAzNTAwNzExLC01MTc4NDc5MDYsMjExNz
+Y0Mjk1OSwxMDExNjYyNTQ0LDEyODY0Njg1NDYsMTczNjkxMzMx
+MF19
 -->
