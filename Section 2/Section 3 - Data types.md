@@ -16,7 +16,10 @@
 
 Data structures: everything including and below "Lists" in the table
 
+
+# Numbers
+Two main number types: Integers and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDMzMzE4OSwtODQ3ODc5NDAwLDE5OT
-QwNTQsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTE3MTE4OTU1NTcsLTg0Nzg3OTQwMCwxOT
+k0MDU0LDIwNDAyOTc2MjJdfQ==
 -->
