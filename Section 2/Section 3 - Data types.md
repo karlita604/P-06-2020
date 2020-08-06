@@ -131,12 +131,17 @@ name*3
 ---> '23'
 
 x = "Hello World"
-x.upper(
+x.upper()
+---> 'HELLO WORLD'
+x.split()
+---> ['Hello', 'World']
+#will split it based on the white spae or
+
 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQwNTQ4MTYsMTg2MzQ5ODQ1NCwtMT
+eyJoaXN0b3J5IjpbLTE3MzEzMjE1MTQsMTg2MzQ5ODQ1NCwtMT
 Y2MjIxNzI4NiwxOTM3MTgzNTAzLC0xNTE1MDMxNjIsMTc2ODc5
 Njc1OSwyMjA4NDAxOTQsLTE3MjI2OTU5OTMsODU2NjE1NjAxLD
 I5MDQ1NjI4NiwxNDg3MjMzNDUsMTM4MzY0Njc5MiwtMzY2Mjg5
