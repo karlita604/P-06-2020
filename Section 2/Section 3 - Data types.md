@@ -89,6 +89,9 @@ astring[2:]
 ---> 'cdefghijk'
 astring[:3]
 ---> 'abc'
+astring[::]
+--> 'abcdefghijk'
+astring[
 
 ```
 
@@ -100,9 +103,9 @@ len("x") : returns length of string x
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUwMzE2MiwxNzY4Nzk2NzU5LDIyMD
-g0MDE5NCwtMTcyMjY5NTk5Myw4NTY2MTU2MDEsMjkwNDU2Mjg2
-LDE0ODcyMzM0NSwxMzgzNjQ2NzkyLC0zNjYyODkwNTUsLTUzNj
-I0NTM0MywtODQ3ODc5NDAwLDE5OTQwNTQsMjA0MDI5NzYyMl19
-
+eyJoaXN0b3J5IjpbMTg1MDQxNTQ0MywtMTUxNTAzMTYyLDE3Nj
+g3OTY3NTksMjIwODQwMTk0LC0xNzIyNjk1OTkzLDg1NjYxNTYw
+MSwyOTA0NTYyODYsMTQ4NzIzMzQ1LDEzODM2NDY3OTIsLTM2Nj
+I4OTA1NSwtNTM2MjQ1MzQzLC04NDc4Nzk0MDAsMTk5NDA1NCwy
+MDQwMjk3NjIyXX0=
 -->
