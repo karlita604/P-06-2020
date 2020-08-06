@@ -90,8 +90,9 @@ astring[2:]
 astring[:3]
 ---> 'abc'
 astring[::]
---> 'abcdefghijk'
-astring[
+---> 'abcdefghijk'
+astring[2:7:2]
+-->'ceg'
 
 ```
 
@@ -103,7 +104,7 @@ len("x") : returns length of string x
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDQxNTQ0MywtMTUxNTAzMTYyLDE3Nj
+eyJoaXN0b3J5IjpbMTkzNzE4MzUwMywtMTUxNTAzMTYyLDE3Nj
 g3OTY3NTksMjIwODQwMTk0LC0xNzIyNjk1OTkzLDg1NjYxNTYw
 MSwyOTA0NTYyODYsMTQ4NzIzMzQ1LDEzODM2NDY3OTIsLTM2Nj
 I4OTA1NSwtNTM2MjQ1MzQzLC04NDc4Nzk0MDAsMTk5NDA1NCwy
