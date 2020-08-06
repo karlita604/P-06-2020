@@ -115,17 +115,26 @@ name[0]="p"
 ---> TypeError
 ```
 
-**Concatination**
+**Concatination and Multiplication**
 ```python
 name = "Sam"
 othername = name[1:]
 ---> 'am'
 "P" + othername
 ---> 'Pam'
+
+name*3
+--->'SamSamSam'
+2+3
+--->5
+'2' + '3'
+---> '23'
+
+
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE2NDkwNTQsMTg2MzQ5ODQ1NCwtMT
+eyJoaXN0b3J5IjpbLTE0NTI1ODUzNjMsMTg2MzQ5ODQ1NCwtMT
 Y2MjIxNzI4NiwxOTM3MTgzNTAzLC0xNTE1MDMxNjIsMTc2ODc5
 Njc1OSwyMjA4NDAxOTQsLTE3MjI2OTU5OTMsODU2NjE1NjAxLD
 I5MDQ1NjI4NiwxNDg3MjMzNDUsMTM4MzY0Njc5MiwtMzY2Mjg5
