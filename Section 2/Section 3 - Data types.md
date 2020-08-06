@@ -108,8 +108,15 @@ len("x") : returns length of string x
 
 # String Properties and Methods
 
+**Immutability**: str objects do not support item reassignment
+```python
+name = "Sam"
+
+
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTM5MzI0NiwtMTY2MjIxNzI4NiwxOT
+eyJoaXN0b3J5IjpbMTg2MzQ5ODQ1NCwtMTY2MjIxNzI4NiwxOT
 M3MTgzNTAzLC0xNTE1MDMxNjIsMTc2ODc5Njc1OSwyMjA4NDAx
 OTQsLTE3MjI2OTU5OTMsODU2NjE1NjAxLDI5MDQ1NjI4NiwxND
 g3MjMzNDUsMTM4MzY0Njc5MiwtMzY2Mjg5MDU1LC01MzYyNDUz
