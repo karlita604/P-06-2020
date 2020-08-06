@@ -94,6 +94,9 @@ astring[::]
 astring[2:7:2]
 -->'ceg'
 
+
+astring[::-1
+
 ```
 
 **Escape sequences:** 
@@ -104,9 +107,9 @@ len("x") : returns length of string x
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzE4MzUwMywtMTUxNTAzMTYyLDE3Nj
-g3OTY3NTksMjIwODQwMTk0LC0xNzIyNjk1OTkzLDg1NjYxNTYw
-MSwyOTA0NTYyODYsMTQ4NzIzMzQ1LDEzODM2NDY3OTIsLTM2Nj
-I4OTA1NSwtNTM2MjQ1MzQzLC04NDc4Nzk0MDAsMTk5NDA1NCwy
-MDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbOTg2NzM5NDc0LDE5MzcxODM1MDMsLTE1MT
+UwMzE2MiwxNzY4Nzk2NzU5LDIyMDg0MDE5NCwtMTcyMjY5NTk5
+Myw4NTY2MTU2MDEsMjkwNDU2Mjg2LDE0ODcyMzM0NSwxMzgzNj
+Q2NzkyLC0zNjYyODkwNTUsLTUzNjI0NTM0MywtODQ3ODc5NDAw
+LDE5OTQwNTQsMjA0MDI5NzYyMl19
 -->
