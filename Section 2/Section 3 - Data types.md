@@ -111,15 +111,22 @@ len("x") : returns length of string x
 **Immutability**: str objects do not support item reassignment
 ```python
 name = "Sam"
-name[0]
-
+name[0]="p"
+---> TypeError
 ```
 
+```python
+name = "Sam"
+othername = name[1:]
+---> 'am'
+"P" + othername
+---> 'Pam'
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODc4Mzg3MSwxODYzNDk4NDU0LC0xNj
-YyMjE3Mjg2LDE5MzcxODM1MDMsLTE1MTUwMzE2MiwxNzY4Nzk2
-NzU5LDIyMDg0MDE5NCwtMTcyMjY5NTk5Myw4NTY2MTU2MDEsMj
-kwNDU2Mjg2LDE0ODcyMzM0NSwxMzgzNjQ2NzkyLC0zNjYyODkw
-NTUsLTUzNjI0NTM0MywtODQ3ODc5NDAwLDE5OTQwNTQsMjA0MD
-I5NzYyMl19
+eyJoaXN0b3J5IjpbLTE1ODkzNDI4LDE4NjM0OTg0NTQsLTE2Nj
+IyMTcyODYsMTkzNzE4MzUwMywtMTUxNTAzMTYyLDE3Njg3OTY3
+NTksMjIwODQwMTk0LC0xNzIyNjk1OTkzLDg1NjYxNTYwMSwyOT
+A0NTYyODYsMTQ4NzIzMzQ1LDEzODM2NDY3OTIsLTM2NjI4OTA1
+NSwtNTM2MjQ1MzQzLC04NDc4Nzk0MDAsMTk5NDA1NCwyMDQwMj
+k3NjIyXX0=
 -->
