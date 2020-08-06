@@ -85,7 +85,11 @@ mystring[-2]
 
 ```python
 astring = "abcdefghijk"
-astring
+astring[2:]
+---> 'cdefghijk'
+astring[:3]
+---> 'abc'
+
 ```
 
 **Escape sequences:** 
@@ -96,9 +100,9 @@ len("x") : returns length of string x
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzNDE4MzkwLDE3Njg3OTY3NTksMjIwOD
-QwMTk0LC0xNzIyNjk1OTkzLDg1NjYxNTYwMSwyOTA0NTYyODYs
-MTQ4NzIzMzQ1LDEzODM2NDY3OTIsLTM2NjI4OTA1NSwtNTM2Mj
-Q1MzQzLC04NDc4Nzk0MDAsMTk5NDA1NCwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTE1MTUwMzE2MiwxNzY4Nzk2NzU5LDIyMD
+g0MDE5NCwtMTcyMjY5NTk5Myw4NTY2MTU2MDEsMjkwNDU2Mjg2
+LDE0ODcyMzM0NSwxMzgzNjQ2NzkyLC0zNjYyODkwNTUsLTUzNj
+I0NTM0MywtODQ3ODc5NDAwLDE5OTQwNTQsMjA0MDI5NzYyMl19
 
 -->
