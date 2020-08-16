@@ -47,11 +47,15 @@ Any development environment is good,  as long as it works well for you. Dealer's
 
 
 [https://try.github.io/](https://try.github.io/)
+
 [https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources)
+
 [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
+
+[https://education.github.com/discount_requests/student_application](https://education.github.com/discount_requests/student_application)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjA2NjcwLDIwMzE2Mjg2OSwtNDkzNT
-QxOTI2LDIwNTYzMTg4MCwtMTE3NzU3ODI4NywtNTE3ODQ3OTA2
-LDIxMTc2NDI5NTksMTAxMTY2MjU0NCwxMjg2NDY4NTQ2LDE3Mz
-Y5MTMzMTBdfQ==
+eyJoaXN0b3J5IjpbMTQ2NTcyNzYwOSwyMDMxNjI4NjksLTQ5Mz
+U0MTkyNiwyMDU2MzE4ODAsLTExNzc1NzgyODcsLTUxNzg0Nzkw
+NiwyMTE3NjQyOTU5LDEwMTE2NjI1NDQsMTI4NjQ2ODU0NiwxNz
+M2OTEzMzEwXX0=
 -->
