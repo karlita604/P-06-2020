@@ -130,6 +130,8 @@ name*3
 '2' + '3'
 ---> '23'
 
+
+
 x = "Hello World"
 x.upper()
 ---> 'HELLO WORLD'
@@ -142,5 +144,6 @@ x.split("i")
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTE1MzMzLDgyNDAzMDUwNl19
+eyJoaXN0b3J5IjpbMjExNzI2ODg4NywtMjc1MTUzMzMsODI0MD
+MwNTA2XX0=
 -->
