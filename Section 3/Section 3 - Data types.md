@@ -135,7 +135,11 @@ name*3
 
 
 ** Built in Methods **
-if you hit x. *tab* --> will get a menu with 
+
+ - if you hit x. *tab* --> will get a menu with all the built in methods
+ - don
+
+
 ```python
 
 x = "Hello World"
@@ -150,6 +154,6 @@ x.split("i")
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NDAwMjg5LC0yNzUxNTMzMyw4MjQwMz
-A1MDZdfQ==
+eyJoaXN0b3J5IjpbLTEyMjE2Nzg0MTMsLTI3NTE1MzMzLDgyND
+AzMDUwNl19
 -->
