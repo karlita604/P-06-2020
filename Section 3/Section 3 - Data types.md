@@ -187,10 +187,10 @@ name = "Sam"
 age = 3
 print(f"{name} is {age} years old")
 ---> Sam is 3 years old
-
-
 ```
+
+[https://pyformat.info/](https://pyformat.info/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkyNjI5MjYsMjEyNjA5ODEzNywxMD
-czNzIzMzM5LC0yNzUxNTMzMyw4MjQwMzA1MDZdfQ==
+eyJoaXN0b3J5IjpbMTE0NDA0MzI0MywyMTI2MDk4MTM3LDEwNz
+M3MjMzMzksLTI3NTE1MzMzLDgyNDAzMDUwNl19
 -->
