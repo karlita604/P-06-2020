@@ -155,7 +155,14 @@ x.split("i")
 
 ```
 
+**String Formatting to Printing**
+- Often you will want to inject a variable into your string for printing
+
+```python
+my_name = "Jose"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzcyMzMzOSwtMjc1MTUzMzMsODI0MD
-MwNTA2XX0=
+eyJoaXN0b3J5IjpbLTMxMTEzNDU1NCwxMDczNzIzMzM5LC0yNz
+UxNTMzMyw4MjQwMzA1MDZdfQ==
 -->
