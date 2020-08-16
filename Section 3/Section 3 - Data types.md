@@ -181,15 +181,16 @@ result = 100/777
 print("The result was {r}".format(r=result))
 print("The result was {r:1.3f}".format(r=result))
 ```
-**Another format**
+**f string method**
 ```python
 name = "Sam"
 age = 3
-print(f"
+print(f"{name} is {age} years old")
+---> Sam is 3 years old
 
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODA3Mzk3MiwyMTI2MDk4MTM3LDEwNz
-M3MjMzMzksLTI3NTE1MzMzLDgyNDAzMDUwNl19
+eyJoaXN0b3J5IjpbLTE3NzkyNjI5MjYsMjEyNjA5ODEzNywxMD
+czNzIzMzM5LC0yNzUxNTMzMyw4MjQwMzA1MDZdfQ==
 -->
