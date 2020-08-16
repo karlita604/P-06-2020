@@ -172,10 +172,11 @@ print("This is a string {}".format("INSERTED"))
 ---> This is a string INSERTED
 print(" The {0} {0} {0}".format("fox", "brown", "quick"))
 ---> The fox fox fox
-print(" The {q} {b} {f}".format("fox", "brown", "quick"))
-
+print(" The {q} {b} {f}".format(f="fox", b="brown", q="quick"))
 ```
+
+**FOrm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkzMTA1MTMsMjEyNjA5ODEzNywxMD
+eyJoaXN0b3J5IjpbLTE3NjMwNzgzODcsMjEyNjA5ODEzNywxMD
 czNzIzMzM5LC0yNzUxNTMzMyw4MjQwMzA1MDZdfQ==
 -->
