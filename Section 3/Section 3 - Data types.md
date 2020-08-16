@@ -165,9 +165,13 @@ print("Hello " + my_name)
 ```
 
 **Formatting with the .format() method**
-String here {} then also {}
+String here {} then also {}.format('smth1','smth2')
 
+```python
+print("This is a string{}"
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM1MjUzODMsMTA3MzcyMzMzOSwtMj
-c1MTUzMzMsODI0MDMwNTA2XX0=
+eyJoaXN0b3J5IjpbMTA0OTYzNDc1NSwxMDczNzIzMzM5LC0yNz
+UxNTMzMyw4MjQwMzA1MDZdfQ==
 -->
