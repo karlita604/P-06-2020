@@ -170,10 +170,12 @@ String here {} then also {}.format('smth1','smth2')
 ```python
 print("This is a string {}".format("INSERTED"))
 ---> This is a string INSERTED
-
+print(" The {0} {0} {0}".format("fox", "brown", "quick"))
+---> The fox fox fox
+print(" The {q} {b} {f}".format("fox", "brown", "quick"))
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjA5ODEzNywxMDczNzIzMzM5LC0yNz
-UxNTMzMyw4MjQwMzA1MDZdfQ==
+eyJoaXN0b3J5IjpbLTE2MjkzMTA1MTMsMjEyNjA5ODEzNywxMD
+czNzIzMzM5LC0yNzUxNTMzMyw4MjQwMzA1MDZdfQ==
 -->
