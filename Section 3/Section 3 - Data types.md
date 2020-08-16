@@ -130,7 +130,13 @@ name*3
 '2' + '3'
 ---> '23'
 
+# you will get an error if you concatinate a number and a string
+```
 
+
+** Built in Methods **
+if you hit x. *tab* --> will get a menu with 
+```python
 
 x = "Hello World"
 x.upper()
@@ -144,6 +150,6 @@ x.split("i")
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzI2ODg4NywtMjc1MTUzMzMsODI0MD
-MwNTA2XX0=
+eyJoaXN0b3J5IjpbOTg3NDAwMjg5LC0yNzUxNTMzMyw4MjQwMz
+A1MDZdfQ==
 -->
