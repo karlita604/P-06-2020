@@ -44,9 +44,14 @@ Any development environment is good,  as long as it works well for you. Dealer's
 * git-scm.com
 * GitHub: webpage where you can publish projects and collaborate --> commits and branches
 * Git will run locally if you do not use GitHub
-* 
+
+
+[https://try.github.io/](https://try.github.io/)
+[https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources)
+[https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTYyODY5LC00OTM1NDE5MjYsMjA1Nj
-MxODgwLC0xMTc3NTc4Mjg3LC01MTc4NDc5MDYsMjExNzY0Mjk1
-OSwxMDExNjYyNTQ0LDEyODY0Njg1NDYsMTczNjkxMzMxMF19
+eyJoaXN0b3J5IjpbMTI0MjA2NjcwLDIwMzE2Mjg2OSwtNDkzNT
+QxOTI2LDIwNTYzMTg4MCwtMTE3NzU3ODI4NywtNTE3ODQ3OTA2
+LDIxMTc2NDI5NTksMTAxMTY2MjU0NCwxMjg2NDY4NTQ2LDE3Mz
+Y5MTMzMTBdfQ==
 -->
