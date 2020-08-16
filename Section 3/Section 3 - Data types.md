@@ -156,6 +156,7 @@ x.split("i")
 ```
 
 # String Formatting to Printing
+
 - Often you will want to inject a variable into your string for printing --> **String Interpolation**
 
 ```python
@@ -163,7 +164,10 @@ my_name = "Jose"
 print("Hello " + my_name)
 ```
 
+**Formatting with the .format() method**
+String here {} then also {}
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTQ5NDkyNSwxMDczNzIzMzM5LC0yNz
-UxNTMzMyw4MjQwMzA1MDZdfQ==
+eyJoaXN0b3J5IjpbLTE3ODM1MjUzODMsMTA3MzcyMzMzOSwtMj
+c1MTUzMzMsODI0MDMwNTA2XX0=
 -->
