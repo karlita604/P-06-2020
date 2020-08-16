@@ -137,8 +137,7 @@ name*3
 ** Built in Methods **
 
  - if you hit x. *tab* --> will get a menu with all the built in methods
- - don
-
+ - don't forget to append the () when you call a method properly
 
 ```python
 
@@ -147,13 +146,16 @@ x.upper()
 ---> 'HELLO WORLD'
 x.split()
 ---> ['Hello', 'World']
-#will split it based on the white space or
+
+#will .split() it based on the white space or
+
+x = "Hi this is a string"
 x.split("i")
 --->['H', ' th', 's ', 's a str', 'ng']
 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE2Nzg0MTMsLTI3NTE1MzMzLDgyND
-AzMDUwNl19
+eyJoaXN0b3J5IjpbMTA3MzcyMzMzOSwtMjc1MTUzMzMsODI0MD
+MwNTA2XX0=
 -->
