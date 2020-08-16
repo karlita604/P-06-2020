@@ -175,8 +175,13 @@ print(" The {0} {0} {0}".format("fox", "brown", "quick"))
 print(" The {q} {b} {f}".format(f="fox", b="brown", q="quick"))
 ```
 
-**FOrm
+**Formatting Floats "{value:width.precision f}"**
+```python
+result = 100/777
+print("The result was {r}".format(r=result))
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjMwNzgzODcsMjEyNjA5ODEzNywxMD
-czNzIzMzM5LC0yNzUxNTMzMyw4MjQwMzA1MDZdfQ==
+eyJoaXN0b3J5IjpbMTMwMjI0NDQ0NiwyMTI2MDk4MTM3LDEwNz
+M3MjMzMzksLTI3NTE1MzMzLDgyNDAzMDUwNl19
 -->
