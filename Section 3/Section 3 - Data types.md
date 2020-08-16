@@ -176,12 +176,14 @@ print(" The {q} {b} {f}".format(f="fox", b="brown", q="quick"))
 ```
 
 **Formatting Floats "{value:width.precision f}"**
+* 
 ```python
 result = 100/777
 print("The result was {r}".format(r=result))
+print("The result was {r:1.3f}".format(r=result))
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjI0NDQ0NiwyMTI2MDk4MTM3LDEwNz
-M3MjMzMzksLTI3NTE1MzMzLDgyNDAzMDUwNl19
+eyJoaXN0b3J5IjpbLTEyMzQ5NTUxNDMsMjEyNjA5ODEzNywxMD
+czNzIzMzM5LC0yNzUxNTMzMyw4MjQwMzA1MDZdfQ==
 -->
