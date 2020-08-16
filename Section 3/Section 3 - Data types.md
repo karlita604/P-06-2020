@@ -168,10 +168,12 @@ print("Hello " + my_name)
 String here {} then also {}.format('smth1','smth2')
 
 ```python
-print("This is a string{}"
+print("This is a string {}".format("INSERTED"))
+---> This is a string INSERTED
+
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTYzNDc1NSwxMDczNzIzMzM5LC0yNz
+eyJoaXN0b3J5IjpbMjEyNjA5ODEzNywxMDczNzIzMzM5LC0yNz
 UxNTMzMyw4MjQwMzA1MDZdfQ==
 -->
